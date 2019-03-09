@@ -1,1 +1,1 @@
-# Lab_POO_3
+# OOP Project in C++
