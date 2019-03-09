@@ -1,1 +1,2 @@
-# OOP Project in C++ using templates
+# OOP Project 
+This is an OOP Project implemented in C++ using templates. The operators +,-,* are not implemented with a good complexity, as it wasn't the purpose of this project.  
